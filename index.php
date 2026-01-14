@@ -14,7 +14,7 @@
 <body>
     <div class="container display-none" id="signUp">
         <h1 class="form-title">Register</h1>
-        <form action="" method="post">
+        <form action="register.php" method="post">
             <div class="input-group">
                 <label for="fName">First Name</label>
                 <i class="fas fa-user"></i>
@@ -54,7 +54,7 @@
 
     <div class="container" id="signIn">
         <h1 class="form-title">Sign In</h1>
-        <form action="" method="post">
+        <form action="register.php" method="post">
             <div class="input-group">
                 <label for="lName">Email</label>
                 <i class="fas fa-envelope"></i>
